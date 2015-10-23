@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+On initialising a repo, we make an ordinary folder a repo, which means git can now save metadata about my files and hence generate versions based on commit ids.
