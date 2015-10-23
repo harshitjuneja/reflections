@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 On initialising a repo, we make an ordinary folder a repo, which means git can now save metadata about my files and hence generate versions based on commit ids.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area offers us a choice to add more than one commit at once. It's really great how a files are first added to the staging area and then commited all at once.
+
