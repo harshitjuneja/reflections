@@ -11,3 +11,6 @@ Branches - whenever adding a new feature. Nullifies risk of code being fragile.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So by this we can extend the changes we want to after the last commit present at the remote github server.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Would be really difficuilt to add new features. Code review will be hard.
